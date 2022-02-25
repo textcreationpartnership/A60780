@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations offered touching the East-India affairs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60780</idno>
+            <idno type="STC">Wing S4492C</idno>
+            <idno type="STC">ESTC R219112</idno>
+            <idno type="EEBO-CITATION">99830637</idno>
+            <idno type="PROQUEST">99830637</idno>
+            <idno type="VID">35090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2078:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations offered touching the East-India affairs</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35090:1"/>
+            <pb n="1" facs="tcp:35090:1"/>
+            <head>Some Conſiderations Offered touching the <hi>Eaſt-India</hi> Affairs.</head>
+            <p>THE Advantage of the Dutch Iyes only inſetling this Company, becauſe never any former conduct of the Engliſh Company aſpired to, or attained any Empire, or Do<g ref="char:EOLhyphen"/>minion in <hi>India</hi> worth mentioning, nor built ſuch a number of Warlike Ships.</p>
+            <p>The Engliſh <hi>East-India</hi> Company is (or ſhould be to ſupport themſelves againſt their neigh<g ref="char:EOLhyphen"/>bours) a Soveraign Commonwealth, under and ſubject to the Crown of <hi>England;</hi> meliorated and improved by the ſucceſſive Wiſdom of ſeveral ages paſt, and never was at ſuch a height of perfection as it is at this inſtant, to the envy and admiration of all <hi>European</hi> Nations, and <hi>Indian</hi> Princes: And it is juſtly feared, the pulling down this Company to ſet up a New one, may prove as unſucceſsful, as it would be to grubb up a flouriſhing well grown Orchard, in the ſtrength and prime time of its bearing Fruit, to Plant a New Orchard in the ſame Place, in hopes to have more and better Cyder: Whereas a New Plantation yeilds little Fruit and the worſt Cyder. Beſides which, he underſtands but little of <hi>India,</hi> who thinks that notwithſtand<g ref="char:EOLhyphen"/>ing all the caution, the profoundeſt Wiſdom can provide, Foreigners will not make an irre<g ref="char:EOLhyphen"/>trievable advantage, and <hi>England</hi> ſuffer an irreparable loſs; between the drawing off of the Old, and the entrance of a New Company, which for the firſt ſeven years, by reaſon of con<g ref="char:EOLhyphen"/>trariety of opinions, inexperience, and for other cauſes will rather run backwards, than for<g ref="char:EOLhyphen"/>wards as this Company did at firſt, to ſuch a degree, that after ſix or ſeven years Trading, the Stock which coſt One hundred pound, was generally ſold for ſixty or ſeventy pounds, and all intereſt loſt.</p>
+            <p>But to follow the former Metaphor, ſome worthy Gentlemen (abuſed by Flatterers that hope to gain by the publick prejudice of their Countrey) ſay, they deſign not to cut down the Old Orchard, but to graft upon it, and that they are perſwaded to believe may be done, with ſafety, not conſidering, that whoever will graft upon an Old Orchard, muſt firſt cut off the Top, and Fruit bearing boughs, and few Wiſe men, will do that, when their Orchard thrives better than any of their Neighbours, and is at the moſt profitable height of bearing that ever any Orchard was, eſpecially conſidering the uncertainty, whether the New Cyons being grafted upon Old Stocks, will thrive, live or dye.</p>
+            <p>The unſetling this Company any way, is as much as the greateſt Emulators of the Engliſh proſperity in <hi>India</hi> do deſign, or deſire, whether they be Engliſh Interlopers or Foreigners, well knowing that the buſineſs of <hi>India</hi> is not meerly Trade, but a conſtant mixture of Trade, and Warefare, Fortification, Military prudence, and Political Government, which muſt be adapted peculiarly to the genius of thoſe People, and of thoſe Places; (not conforma<g ref="char:EOLhyphen"/>ble to the Laws of <hi>England</hi>) in imitation of the Dutch Wiſdom in thoſe Countreys, which eminently tranſcends all other Nations, and muſt unavoidably force them all, to give up the little remainder the Dutch have left amongſt them, if the Engliſh be not armed with the ſame Wiſdom, as well as with the ſame power, as the States General have moſt wiſely conferr'd upon their <hi>East-India</hi> Company, where their Committee Men, are not upon Rotation, but for their Lives, and ſtile themſelves, as they ought to be, <hi>The Seventeen;</hi> repreſenting the So<g ref="char:EOLhyphen"/>vereign ſtate of the <hi>Netherlands Eaſt India</hi> Company in <hi>India:</hi> And if it were ſo in <hi>England,</hi> it would be much better for the Publick, and be found in the augmentation of the value of Land, which can only be increaſed by Trade, and by that of the <hi>Eaſt-Indies,</hi> more available to that end than any other; which makes the Wiſe Dutch Nation cheriſh and defend it, with the ſame zeal and affection, as they would their Wives and Children, and were never yet known to part with one inch of ground got in <hi>India.</hi>
+            </p>
+            <p>It is the work of a long Life, fully to underſtand how <hi>India</hi> is to be governed, and improv<g ref="char:EOLhyphen"/>ed for National advantage, and ſuch a Drudgery and Expence of Time, in converſe with all ſorts of People, and of all Nations, and reading ſuch Voluminous Books and Records, that ve<g ref="char:EOLhyphen"/>ry
+<pb n="1" facs="tcp:35090:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35090:3"/>few Men in any Age, have ever applyed themſelves to, and is as different from the eaſie way of ſending out Ships, and bringing home returns, in the common courſe of Merchandize, as the Government of many great Kingdoms is, from the Government of one ſingle Cottage.</p>
+            <p>It was for want of ſuch powers to the Engliſh <hi>Eaſt-India</hi> Company, That the Dutch Com<g ref="char:EOLhyphen"/>pany have got, and the Engliſh loſt the poſſeſſion, and Trade of all the Spice-Iſlands; <hi>Japan,</hi> and many other places in the laſt Age, and <hi>Macaſſar</hi> and <hi>Bantam</hi> in this; and which enabled them to bring Nutmegs, Cloves, Mace, and Cinnamon, intirely into their own hands, and to ſell Nutmegs, which coſt them in <hi>India</hi> leſs than One Penny per pound, to all the <hi>Indian</hi> World, as well as to <hi>Europe, Africa</hi> and <hi>America,</hi> at about ſix ſhillings per pound; and all other Spice in proportion. And if it had not been for the late enlargements of power to the Engliſh Company, which animated the Committee to that chargeable attempt on <hi>Sumatra,</hi> the Dutch in probability had immediately on the ſurprize of <hi>Bantam,</hi> made themſelves Maſters of all the Pepper, and if they had done, or ſhall ever do that hereafter, <hi>England</hi> may too late la<g ref="char:EOLhyphen"/>ment, and bewail their misfortune, but ſhall never recover it; no more than they can or will the Spice Iſlands. The gain by that ſingle Commodity of Pepper, if it were in one hand, being ſufficient to maintain Fleets, to fight any Royal Navy in <hi>India,</hi> or in theſe Seas: for we may truly compute, that all the Pepper conſumed in <hi>Japan, China, Tartaria, Perſia, Arabia, Egypt,</hi> and in all other Places of the three aforeſaid Quarters of the World, doth not amount to leſs than Six Thouſand Tons, <hi>Communibus annis;</hi> which may be bought, if the Trade were in One Nations hand, at about a penny a pound, and ſold to the reſt of the World as dear as Nutmegs, being about Six Shillings per pound; to which penny and Eleven pence for Freight, and Garriſon and other charges, the profit will be Five Shillings per pound, which upon Six Thouſand Tons, amounts to Three Millions, Three Hundred and Sixty Thouſand pounds <hi>sterling per annum.</hi> And we can apprehend nothing to be abated thereof, but ſo much as ſhall be leſſen'd of the Expence of that Commodity in all parts of the World, as may be occa<g ref="char:EOLhyphen"/>ſioned by ſuch an increaſe of the price.</p>
+            <p>Although it is unreaſonable to deſtroy, or Graft again a flouriſhing thriving Orchard, the beſt may need Pruning and Cultivating; but both muſt be done by a skilful hand, for fear of cutting off Bearing, inſtead of Superfluous Branches, or prejudicing the Roots, which is a proper Subject for the Wiſdom of Parliament, when they know and have deeply conſider'd the Laws, Methods and Rules the <hi>Dutch</hi> Govern their Trade and Colonies by in <hi>India,</hi> and for thoſe out of Parliament which think them too Arbitrary, the Remedy is eaſie: Such Per<g ref="char:EOLhyphen"/>ſons may ſtay at home under the ſhadow of our Native Liberty, as it is better Ten Thou<g ref="char:EOLhyphen"/>ſand Men of that Mind ſhould, than that <hi>England</hi> ſhould looſe their Trade and Dominion in <hi>India.</hi>
+            </p>
+            <p>If the Exerciſe of Martial Law be denied the Company, it will be impoſſible to preſerve the Dominion of <hi>India,</hi> of which St. <hi>Helena</hi> is a pregnant Inſtance having rebelled four times before they paid one Peny charge to the Government, Church, Poor or High-ways, Cuſtom or Exciſe or any other Duty.</p>
+            <p n="1">1. It is likewiſe ſeriouſly to be conſidered, whether it be not ſafeſt to proceed in an Affair of this vaſt Import with great deliberation, and whether this be a proper time for ſo hazardous a Change as ſome would make in the <hi>Eaſt-India</hi> Affairs, before the three Kingdoms are ſo firmly ſetled, as all good Men deſire, and hope they will be within a ſmall ſpace of time coming.</p>
+            <p n="2">2. Whether it would not be Wiſdom to hear firſt from <hi>India,</hi> how the <hi>Dutch</hi> Company will behave themſelves there upon this great Revolution, that hath lately happened in theſe Kingdoms?</p>
+            <p n="3">3. To conſider how the Companies great Ships ſhould be employ'd between the New and Old Company, whereof four are in their Majeſties Service; three at home that will carry from Seventy to Eighty Guns each; Eight or Ten more that are ſuddenly expected Home, and very many more left in the Country. Becauſe, If the preſent Company muſt be diſſolved, four or five years hence they can employ but few of them, becauſe their buſi<g ref="char:EOLhyphen"/>neſs muſt be to bring in, not to ſcatter their Eſtates. The New Company whatever men may pretend can't have a Stock to employ half that Number of great Ships in many Years to come, and thoſe great Ships muſt in Conſequence be broke up, for no other Trade will find them bread but that of <hi>India.</hi>
+            </p>
+            <pb n="3" facs="tcp:35090:3"/>
+            <p n="4">4. Whether Grafting upon the Preſent Company, or making a new one will not neceſſarily cauſe Diviſion and Confuſions in the Committees Councils, which can never happen at ſo ill a Time as this, when it is ſaid, The <hi>Dutch</hi> Company have already this Year ſent very great Forces, and are ſending out a far greater for <hi>India,</hi> while at the ſame time the <hi>Engliſh</hi> can't get to Sea that ſingle Ship the <hi>Herbert,</hi> which hath lain three Months at <hi>Graveſend</hi> full Loaden with Neceſſaries for the Companies Forts, Seamen and ſome Souldiers on Board her, by reaſon of the preſent Preſs and Embargo.</p>
+            <p n="5">5. Is it not extreamly neceſſary, That before any haſty change be made, the <hi>Engliſh</hi> Nation ſhould ſee what uſe the <hi>Dutch</hi> Company in <hi>India</hi> would make upon the great over-ballance of Power in <hi>India</hi> they are like to have next Summer by reaſon of the advantage they have at pre<g ref="char:EOLhyphen"/>ſent of getting many Ships to Sea, (while this Company can't get out that ſingle Ship aforeſaid) if they ſhould attempt any of the Companies three <hi>Pepper-Forts</hi> in their own Names, or in the Name of the young King of <hi>Bantam,</hi> or any of their Confederate or Vaſſal <hi>Indian</hi> Princes, would not <hi>England</hi> Repent too late? And if any of thoſe Garriſons ſhould fail or deſert for want of Supplies from <hi>Europe,</hi> or upon News of the Companies being out of Favour in <hi>England,</hi> which the Interlopers and <hi>Dutch</hi> Company will not fail to aggravate and magnifie to the Natives, will not ſuch an Error be fatal to this Kingdom? How can it hereafter be mended, or who ſhall do it the old Company being mortified by the late diſcouragements they have met with after all their great Services for their Country, and the New One whatever is pretended will never be able to do it.</p>
+            <p n="6">6. If the <hi>Dutch</hi> Company by reaſon of the Diſcouragement and Interruption given the <hi>Engliſh</hi> Company, ſhould arrive at the ſole Engroſsment of Pepper, would not the next Com<g ref="char:EOLhyphen"/>modity moſt proper for them to engroſs, be <hi>Saltpetre,</hi> and what will be the Conſequences thereof? After they have once all the <hi>Pepper,</hi> they may do all things, and every thing they have a mind to in <hi>India</hi> at their own good Will and Pleaſure without poſſibility of prevention. And we dare confidently aver and think it our bounden Duty to God and our Countrey before it be too late to affirm poſitively, That if the <hi>Engliſh</hi> Company be not arm'd with the ſame Authority and Priviledges as the <hi>Dutch Eaſt-India</hi> Company are; The <hi>Engliſh</hi> Empire and Dominion in <hi>India</hi> will certainly and quickly be loſt, and the loſs of the Trade muſt follow that in a ſhort time after, or as ſoon as the <hi>Dutch</hi> Company pleaſe. That Nation being ſo wiſe in the Affairs of thoſe Eaſtern Countries, that they never made any Change of their Company after it was once ſetled nor abridged them of any Power, but rather encreaſed their Authority.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
